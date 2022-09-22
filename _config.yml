@@ -21,7 +21,7 @@
 title: 怀揣数学梦的程序员的开发之旅
 email: shalorend@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  一个从数学的康庄大道上半道出家的BUG制造机，也是有“以码之力，胜天半子”的野心的
+  一个从数学的康庄大道上半道出家的BUG制造机，也是有以码之力，胜天半子的野心的
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
